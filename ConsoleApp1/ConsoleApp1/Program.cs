@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello");
             //test
+            int a = 1;
+            int b = 2;
+
+            int summ = a + b;
         }
     }
 }
