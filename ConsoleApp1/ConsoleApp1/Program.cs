@@ -16,6 +16,7 @@ namespace ConsoleApp1
             int b = 2;
 
             int summ = a + b;
+
         }
     }
 }
